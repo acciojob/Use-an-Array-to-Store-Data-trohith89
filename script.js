@@ -1,2 +1,2 @@
 
-let yourArray = [2, 3.14, "AccioJob", true, null];
+var yourArray = [2, 3.14, "AccioJob", true, null];
